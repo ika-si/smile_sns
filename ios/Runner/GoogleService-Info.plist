@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>313104811845-sbuhj4bohh62kbm5imkrj02o6np8v38c.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.313104811845-sbuhj4bohh62kbm5imkrj02o6np8v38c</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCCOJ1yT6E_f4-wfSPeUEj2Vz8owxERa5U</string>
+	<key>GCM_SENDER_ID</key>
+	<string>313104811845</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>yurika.sugai.smileSns</string>
+	<key>PROJECT_ID</key>
+	<string>smile-sns-53f93</string>
+	<key>STORAGE_BUCKET</key>
+	<string>smile-sns-53f93.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:313104811845:ios:ab38a06dcaae7c08f4e02c</string>
+</dict>
+</plist>
